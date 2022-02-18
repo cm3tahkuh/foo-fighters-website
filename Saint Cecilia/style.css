@@ -214,7 +214,11 @@ body {
     text-shadow: 0 0 3px #ff56a7;
 }
 
-.page>img {}
+.page>img {
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+}
 
 .container {
     margin: 0 auto;
